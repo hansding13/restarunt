@@ -3,8 +3,8 @@ import { View, Text, TouchableOpacity, Image, StyleSheet, Modal } from "react-na
 import { GooglePlacesAutocomplete } from "react-native-google-places-autocomplete";
 import axios from "axios";
 
-const YELP_API_KEY = "WEhaAqXQVJxdgUOTBEwjOk-zIvwZgs7qjIE8fMEkKrepNcztkW9oiWkSIxGLGOU6r2LrNp_mOAjTve8Co_zAoUHZdGQsj53MueSQwVzOrKV2dLWgCPMYjnJd_lmeZHYx";
-const GOOGLE_PLACES_API_KEY = "AIzaSyD-fnU2P18VNaNd23CQDo1wutd2loSNluI";
+const YELP_API_KEY = "your yelp api"
+const GOOGLE_PLACES_API_KEY = "your google apiI";
 const initialRestaurantData = [];
 const totalValue = 10;
 
